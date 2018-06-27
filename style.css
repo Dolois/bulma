@@ -4,39 +4,76 @@
 
 .columns {
   display: flex;
-}
-
-.columns {
-  display: flex;
   flex-direction: row;
 }
 
 .l1c1 {
-  width: 20%;
-  margin-top: 2vh;
+  width: 10%;
+  margin-top: 3vh;
 }
 
 .l1c2 {
-  width: 10%;
-  margin-top: 2vh;
+  width: 20%;
 }
 
 .l1c3 {
   width: 60%;
   margin-top: 3vh;
-  margin-left: 10vw;
+  margin-left: 30vw;
 }
 
 .l1c4 {
   width: 10%;
-  margin-top: 4vh;
 }
 
 .l2c1 {
-  height: 40%;
+  width: 20%; 
+}
+
+.info_services {
+  background-color: blue;
+  text-align: center;
+  font-size: 1.000em;
+  color: white;
+}
+
+.info_offres {
+  background-color: red;
+  text-align: center;
+  font-size: 1.125em;
+  color: white;
+}
+
+.control {
+  margin-top: 5%;
+  width: 40%;
+}
+
+.button is-danger {
+  border-radius: 50%;
+}
+
+.l2c3 {
+  width: 70%;
+  margin-top: 10vh;
+}
+
+.button {
+  margin-top: 10vh;
 }
 
 .l2c4 {
   width: 10%;
+}
 
+.field {
+  margin-left: 40vw;
+}
+
+.loupe {
+  margin-left: 50vw;	
+}
+
+.l3c2 {
+  width: 100%;
 }
