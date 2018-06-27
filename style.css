@@ -1,3 +1,42 @@
 * {
-  margin: 0;
+  border: 1px black solid;
+}
+
+.columns {
+  display: flex;
+}
+
+.columns {
+  display: flex;
+  flex-direction: row;
+}
+
+.l1c1 {
+  width: 20%;
+  margin-top: 2vh;
+}
+
+.l1c2 {
+  width: 10%;
+  margin-top: 2vh;
+}
+
+.l1c3 {
+  width: 60%;
+  margin-top: 3vh;
+  margin-left: 10vw;
+}
+
+.l1c4 {
+  width: 10%;
+  margin-top: 4vh;
+}
+
+.l2c1 {
+  height: 40%;
+}
+
+.l2c4 {
+  width: 10%;
+
 }
